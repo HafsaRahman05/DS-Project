@@ -19,7 +19,7 @@ The project works on a dataset of dishes and performs:
 ---
 
 ## 📂 Project Structure
-
+```bash
 DS-Project/
 │
 ├── Analysis.py # Word frequency + EDA visualization
@@ -43,7 +43,7 @@ DS-Project/
 │
 ├── xgboost_model.json # Saved trained model
 └── Analysis Figure.png # Visualization output
-
+```
 
 ---
 
